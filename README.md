@@ -5,4 +5,4 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, C, C++</code>
 <code>💬 telegram: [@vladyatsuk](https://telegram.me/vladyatsuk)</code>
-<code>📫 [yatsuk.vladislav@gmail.com](mailto:yatsuk.vladislav@gmail.com)</code>
+<code>📫 [Gmail](mailto:yatsuk.vladislav@gmail.com)</code>
